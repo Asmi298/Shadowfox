@@ -1,0 +1,88 @@
+body{
+    font-family: Papyrus;
+    font-size: large;
+    font-weight: bolder;
+    margin: 30px;
+    border-style: solid;
+    
+}
+#one{
+    display: block;
+    border-color: black;
+    text-align: center;
+    border-style: groove;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#sr{
+    width: 50px;
+}
+#h2{
+    color: #C5705D;
+    font-family: Garamond;
+}
+#h2:hover{
+    color:#921A40;
+    cursor: pointer;
+
+}
+#thr{
+    width: 300px;
+}
+#two{
+    margin-top: 40px;
+}
+.one{
+color:#C5705D;
+text-decoration: none;
+}
+.one:hover
+{
+    cursor: pointer;
+    color: #921A40;
+}
+.bye{
+    color: #C5705D;
+}
+.li{
+    margin-left:55px;
+    margin-right: 55px;
+    border-style: hidden;
+}
+.hi{
+    color: #C5705D;
+}
+.bd{
+    padding-top: 10px;
+    padding-left: 250px;
+}
+.last{
+    font-size: xx-large;
+}
+.pic{
+    display: inline-block;
+    im
+}
+.two{
+    text-decoration: none;
+    color:#C5705D;
+}
+.two:hover{
+    color:#921A40
+}
+.box{
+    display: inline-block;
+    border-color: black; 
+    border-style: hidden;
+    border-width: 2px;
+    width: 150px;
+}
+.b2{
+    border-left: 20px;
+    display: inline-block;
+    border-color: black; 
+    border-style: hiddden;
+    border-width: 2px;
+    width: 150px;
+}
